@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    //"module": "es6",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "noImplicitAny": true,
+    "strict": true,
+    "strictNullChecks": true
+  },
+  "ts-node": {
+    "esm": true
+  }
+}
